@@ -23,7 +23,7 @@
 
 每個階段的繳交以 **GitHub Release** 為準。請在各階段 deadline 前建立對應的 Release：
 
-| 階段 | Release Tag | 繳交內容 |
+| 階段 | Release Tag 名稱參考 | 繳交內容 |
 |------|-------------|---------|
 | Proposal Report | `proposal` | README.md Proposal Report 區段 |
 | Prototype Report | `prototype` | README.md 進度區段 + 程式碼 |
