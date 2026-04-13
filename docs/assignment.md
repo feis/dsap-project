@@ -58,7 +58,7 @@ Final Report 需錄製 **5 分鐘以內**的影片，上傳至 YouTube 後透過
 - 題目名稱、動機與目標
 - 預期功能
 - 使用的技術 / 語言
-- Prototype 預計完成的內容
+- Prototype 預計可驗證內容
 
 ### 2. Prototype Report（Week 11）
 
