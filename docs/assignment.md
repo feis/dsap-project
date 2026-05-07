@@ -73,8 +73,8 @@ Final Report 需錄製 **5 分鐘以內**的影片，上傳至 YouTube 後透過
 | 階段 | 比例 | 評分重點 |
 |------|------|---------|
 | Proposal Report | 10% | 題目合理性、思考深度 |
-| Prototype Report | 30% | 有實質程式碼進展、能說明與課程關聯 |
-| Final Report | 60% | 完成度、影片呈現品質、課程關聯說明深度 |
+| Prototype Report | 30% | 有實質程式碼進展 |
+| Final Report | 60% | 完成度、影片呈現品質 |
 
 ## 互動機制
 
