@@ -41,7 +41,7 @@
 
 ### Demo 影片
 
-Final Report 需錄製 **5 分鐘以內**的影片，上傳至 YouTube 後透過課程網頁繳交連結。
+Final Report 需錄製 **2 分鐘以內**的影片，上傳至 YouTube 後透過課程網頁繳交連結。
 
 ## 三個階段
 
